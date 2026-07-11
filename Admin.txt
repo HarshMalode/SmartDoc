@@ -1,0 +1,14 @@
+//Admin
+ADMIN EMAIL: admin@edoc.com
+
+ADMNIN PASSWORD: 123
+
+//Doctor
+DOCTOR EMAIL: doctor@edoc.com
+
+DOCTOR PASSWORD: 123
+
+//Patient
+PATIENT EMAIL: patient@edoc.com
+
+PATIENT PASSWORD: 123
