@@ -1,4 +1,4 @@
-<h1 align="center">🏥 Edoc</h1>
+<h1 align="center">🏥 SmartDoc</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php" alt="PHP" />
@@ -29,7 +29,7 @@ A modern web-based healthcare management system that enables patients to book ap
 
 - Managing hospital appointments manually often leads to scheduling conflicts, long waiting times, and inefficient communication.
 
-- EDoc provides an online platform where patients can easily book appointments, doctors can manage schedules, and administrators can oversee hospital operations.
+- SmartDoc provides an online platform where patients can easily book appointments, doctors can manage schedules, and administrators can oversee hospital operations.
 
 - The system improves appointment management, reduces paperwork, enhances communication, and delivers a better healthcare experience for both patients and healthcare professionals.
 
