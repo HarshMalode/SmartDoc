@@ -14,13 +14,13 @@ A modern web-based healthcare management system that enables patients to book ap
 
 🌐 **Live Demo:** Coming Soon
 
-💻 **GitHub Repository:** https://github.com/HarshMalode/eDoc
+💻 **GitHub Repository:** https://github.com/HarshMalode/SmartDoc
 
 ---
 
 # 📸 System Preview
 
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/home.png)
 
 
 ---
@@ -153,17 +153,37 @@ eDoc/
 
 # 📸 Screenshots
 
-| Home | Admin Dashboard |
-|------|-----------------|
-| ![](screenshots/home.png) | ![](screenshots/admin-dashboard.png) |
+<table align="center">
+<tr>
+<td align="center"><b>🏠 Home</b></td>
+<td align="center"><b>🛠️ Admin Dashboard</b></td>
+</tr>
 
-| Doctor Dashboard | Patient Dashboard |
-|-----------------|-------------------|
-| ![](screenshots/doctor-dashboard.png) | ![](screenshots/patient-dashboard.png) |
+<tr>
+<td><img src="Screenshots/home.png" width="450"/></td>
+<td><img src="Screenshots/admin-dashboard.png" width="450"/></td>
+</tr>
 
-| Appointment Booking | Manage Doctors |
-|---------------------|----------------|
-| ![](screenshots/appointment-booking.png) | ![](screenshots/manage-doctors.png) |
+<tr>
+<td align="center"><b>👨‍⚕️ Doctor Dashboard</b></td>
+<td align="center"><b>👤 Patient Dashboard</b></td>
+</tr>
+
+<tr>
+<td><img src="Screenshots/doctor-dashboard.png" width="450"/></td>
+<td><img src="Screenshots/patient-dashboard.png" width="450"/></td>
+</tr>
+
+<tr>
+<td align="center"><b>📅 Appointment Booking</b></td>
+<td align="center"><b>📋 Manage Sessions</b></td>
+</tr>
+
+<tr>
+<td><img src="Screenshots/booking.png" width="450"/></td>
+<td><img src="Screenshots/sessions.png" width="450"/></td>
+</tr>
+</table>
 
 ---
 
@@ -211,6 +231,24 @@ C:\xampp\htdocs\
 ```
 http://localhost/eDoc/
 ```
+
+---
+
+# BUILDING USER ACCOUNTS OF THIS PROJECT
+
+- ADMIN EMAIL:		admin@edoc.com
+
+  ADMIN PASSWORD:	123
+
+
+- DOCTOR EMAIL:		doctor@edoc.com
+
+  DOCTOR PASSWORD:	123
+
+
+- PATIENT EMAIL:		patient@edoc.com
+
+  PATIENT PASSWORD:	123
 
 ---
 
